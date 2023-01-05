@@ -1,12 +1,10 @@
-### boston housin price prediction
+### Boston House price prediction implementation with Docker, Github and Deployment
 
 ### software and tools requirements 
 
 1. [VSCodeIDE](https://code.visualstudio.com/)
 2. [HerokuAccount](https://heroku.com)
 3. [GitHubDesktop](https://github.com)
-
-
 
 Create a new environment
 
